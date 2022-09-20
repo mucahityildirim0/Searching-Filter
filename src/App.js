@@ -1,28 +1,28 @@
 import "./App.css";
-import { Users } from "./Users";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Table from "./Table";
+import axios from "axios";
 
 function App() {
   const [query, setQuery] = useState("");
+  const [data, setData] = useState([]);
 
-  const keys = ["first_name", "last_name", "email"];
-
-  const search = (data) => {
-    return data.filter((item) =>
-      keys.some((key) => item[key].toLowerCase().includes(query))
-    );
-  };
+  useEffect(() => {
+    const fetchData = async () => {
+      const res = await axios.get(`http://localhost:4000?q=${query}`);
+      setData(res.data);
+    };
+    if (query.length === 0 || query.length > 2) fetchData();
+  }, [query]);
 
   return (
     <div className="app">
       <input
-        type="text"
         placeholder="Search..."
         className="search"
         onChange={(e) => setQuery(e.target.value)}
       />
-      <Table data={search(Users)} />
+      {<Table data={data} />}
     </div>
   );
 }
