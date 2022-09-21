@@ -1,4 +1,4 @@
-<h4 align="center">Searching-Filter using React <a href="https://reactjs.org/" target="_blank">React</a></h4>
+<h4 align="center">Searching-Filter using <a href="https://reactjs.org/" target="_blank">React</a></h4>
 
 <p align="center">
   <a href="https://statuesque-kelpie-a93c14.netlify.app/">Demo Link</a> 
