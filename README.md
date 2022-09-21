@@ -52,5 +52,5 @@ MIT
 
 ---
 
-> GitHub [@@mucahityildirim0](https://github.com/mucahityildirim0) &nbsp;&middot;&nbsp;
+> GitHub [@mucahityildirim0](https://github.com/mucahityildirim0) &nbsp;&middot;&nbsp;
 > Twitter [@mchtyldrm0](https://twitter.com/mchtyldrm0)
