@@ -1,35 +1,30 @@
-=======
-
 <h4 align="center">Searching-Filter using <a href="https://reactjs.org/" target="_blank">React</a></h4>
->>>>>>> 1d39fb3a827584fd035409a4256e9f39060c637c
 
 <p align="center">
   <a href="https://statuesque-kelpie-a93c14.netlify.app/">Demo Link</a> 
 </p>
 
-=======
 ![screenshot](https://i.hizliresim.com/r4vyc2f.png)
-
-> > > > > > > 1d39fb3a827584fd035409a4256e9f39060c637c
 
 ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
-```bash
 # Clone this repository
-=======
+
 $ git clone https://github.com/mucahityildirim0/searching-filter
 
 # Go into the repository
+
 $ cd searching-filter
 
 # Install dependencies
+
 $ npm install
 
 # Run the app
+
 $ npm start
-```
 
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
@@ -37,8 +32,6 @@ $ npm start
 ## Emailware
 
 Send me an email at <00mucahityildirim@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
-
-=======
 
 ## Support
 
