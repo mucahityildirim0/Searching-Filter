@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 <h4 align="center">Travel Website using <a href="https://reactjs.org/" target="_blank">React</a></h4>
+=======
+<h4 align="center">Searching-Filter using <a href="https://reactjs.org/" target="_blank">React</a></h4>
+>>>>>>> 1d39fb3a827584fd035409a4256e9f39060c637c
 
 <p align="center">
   <a href="https://statuesque-kelpie-a93c14.netlify.app/">Demo Link</a> 
 </p>
 
+<<<<<<< HEAD
 ![screenshot](https://i.hizliresim.com/g7n9auz.png)
+=======
+![screenshot](https://i.hizliresim.com/r4vyc2f.png)
+>>>>>>> 1d39fb3a827584fd035409a4256e9f39060c637c
 
 ## How To Use
 
@@ -12,10 +20,17 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
+<<<<<<< HEAD
 $ git clone https://github.com/mucahityildirim0/travel-app.git
 
 # Go into the repository
 $ cd travel-app
+=======
+$ git clone https://github.com/mucahityildirim0/searching-filter
+
+# Go into the repository
+$ cd searching-filter
+>>>>>>> 1d39fb3a827584fd035409a4256e9f39060c637c
 
 # Install dependencies
 $ npm install
@@ -31,6 +46,7 @@ $ npm start
 
 Send me an email at <00mucahityildirim@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
 
+<<<<<<< HEAD
 ## Credits
 
 This software uses the following open source packages:
@@ -54,3 +70,21 @@ MIT
 
 > GitHub [@mucahityildirim0](https://github.com/mucahityildirim0) &nbsp;&middot;&nbsp;
 > Twitter [@mchtyldrm0](https://twitter.com/mchtyldrm0)
+=======
+
+## Support
+
+<a href="https://www.buymeacoffee.com/00mucahitya" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+## You may also like...
+
+- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
+- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
+
+
+---
+
+> GitHub [@mucahityildirim0](https://github.com/mucahityildirim0) &nbsp;&middot;&nbsp;
+> Twitter [@mchtyldrm0](https://twitter.com/mchtyldrm0)
+
+>>>>>>> 1d39fb3a827584fd035409a4256e9f39060c637c
