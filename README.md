@@ -1,10 +1,10 @@
-<h4 align="center">Travel Website using <a href="https://reactjs.org/" target="_blank">React</a></h4>
+<h4 align="center">Searching-Filter using React <a href="https://reactjs.org/" target="_blank">React</a></h4>
 
 <p align="center">
   <a href="https://statuesque-kelpie-a93c14.netlify.app/">Demo Link</a> 
 </p>
 
-![screenshot](https://i.hizliresim.com/g7n9auz.png)
+![screenshot](https://i.hizliresim.com/r4vyc2f.png)
 
 ## How To Use
 
@@ -12,10 +12,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/mucahityildirim0/travel-app.git
+$ git clone https://github.com/mucahityildirim0/searching-filter
 
 # Go into the repository
-$ cd travel-app
+$ cd searching-filter
 
 # Install dependencies
 $ npm install
@@ -31,11 +31,6 @@ $ npm start
 
 Send me an email at <00mucahityildirim@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
 
-## Credits
-
-This software uses the following open source packages:
-
-- [Node.js](https://reactjs.org/)
 
 ## Support
 
@@ -46,9 +41,6 @@ This software uses the following open source packages:
 - [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
 - [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
 
-## License
-
-MIT
 
 ---
 
