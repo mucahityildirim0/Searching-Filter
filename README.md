@@ -1,16 +1,3 @@
-<h4 align="center">Searching-Filter using <a href="https://reactjs.org/" target="_blank">React</a></h4>
-
-<p align="center">
-  <a href=>Demo Link</a> 
-</p>
-
-
-
-
-
-
-
-
 # Searching-Filter
 
 This is a Searching-Filter website. Click demo to try it by yourself!
