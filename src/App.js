@@ -1,5 +1,5 @@
 import "./App.css";
-import { Users } from "./Users";
+import { Users } from "./users";
 import { useState } from "react";
 import Table from "./Table";
 
